@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SERONiKS
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning python.
-- 📫 How to reach me: SERONiKS#7332
+- 📫 How to reach me: SERONiKS#9845
 - https://www.buymeacoffee.com/seroniks
 
 <!---
